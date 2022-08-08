@@ -4,7 +4,7 @@ cradle:
     #   config: {cradle: {none: }}
 
     - path: "src"
-      config: {cradle: {cabal: {component: "lib:PKGNAME"}}}
+      config: {cradle: {cabal: {component: "lib:hn-sample"}}}
 
     - path: "app"
-      config: {cradle: {cabal: {component: "PKGNAME:PKGNAME-exe"}}}
+      config: {cradle: {cabal: {component: "hn-sample:hn-sample-exe"}}}

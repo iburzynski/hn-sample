@@ -1,5 +1,5 @@
 packages:
   ./
 
-package PKGNAME
+package hn-sample
   tests: True
